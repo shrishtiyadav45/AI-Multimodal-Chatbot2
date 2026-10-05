@@ -1,0 +1,5 @@
+Repository Description
+A modern AI-powered multimodal chatbot designed for intelligent conversations across text, images, audio, documents, and web-search workflows using a React/Vite frontend and FastAPI backend.
+
+Suggested Topics
+ai, artificial-intelligence, chatbot, multimodal-ai, generative-ai, fastapi, python, react, vite, llm, rag, ai-assistant
